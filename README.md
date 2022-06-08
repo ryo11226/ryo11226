@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python, ML, Web application
 - 🌱 I’m currently learning ...Python, ML, AWS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... r.sugimoto226[at]gmail.com
 
 <!---
 ryo11226/ryo11226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
